@@ -1,0 +1,114 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    justify-items: center;
+    padding: 12px;
+}
+.nav-logo{
+    
+    background-color: white;
+    
+}
+.logo{
+    height: 2.5rem;
+    background-image: url("flipcart_logo.svg");
+    width: 10rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.nav-search{
+    display: flex;   
+    
+}
+.nav-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.75rem;
+    background-color: rgb(231, 238, 255);
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+    font-size: 1.5rem;
+}
+.search-bar1{
+    height: 2.5rem;
+    width: 43.75rem;  
+    padding: 0;
+    border: none;
+    background-color: rgb(231, 238, 255);
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.multipal-options{
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    display: flex;
+}
+.log-in{
+    display: flex;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.profile-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+.dropdown{
+    height: 2.5rem;
+    align-items: center;
+    justify-content: center;
+    
+}
+.dropdown select{
+    height: 2.5rem;
+    border: none;
+    font-size: 1.2rem;
+}
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.cart p{
+    margin: 0px;
+    font-size: 1.2rem;
+}
+.cart-logo{
+    font-size: 1.5rem;
+}
+.sell-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.sell-bar p{
+    margin: 0px;
+    font-size: 1.2rem;
+}
+.shop-icon{
+    font-size: 1.5rem;
+}
+.more{
+    font-size: 1.9rem;
+    margin: 0px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+.boddy{
+    display: block;
+}
