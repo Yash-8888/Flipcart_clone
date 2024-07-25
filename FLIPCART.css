@@ -189,4 +189,113 @@
     margin-right: 3.4rem;
     position: relative;
     top: 2.3rem;
+    background-size: cover;
+}
+.deals-on-smartphone{
+    display: flex;
+    height: 17.5rem;
+    position: relative;
+    top: 5rem;
+    background-color: white;
+    margin-left: 3.4rem;
+    margin-right: 3.4rem;
+}
+.boxes1{
+    display: flex;
+    justify-content: space-evenly;
+    object-fit: cover;
+}
+.box1-text{
+    margin: 0px;
+    background-color: white;
+    font-size: 1.75rem;
+    padding: 1rem;
+    position: relative;
+    top: 5rem;
+    margin-left: 3.4rem;
+    margin-right: 3.4rem;
+}
+.box1-text p{
+    margin: 0;
+}
+.box1-img{
+    background-image: url("phone1.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box2-img{
+    background-image: url("phone2.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box3-img{
+    background-image: url("phone3.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box4-img{
+    background-image: url("phone4.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box5-img{
+    background-image: url("phone5.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box6-img{
+    background-image: url("phone6.png");
+    height: 11.625rem;
+    width: 11.625rem;
+}
+.box1 p{
+    margin: 0;
+    text-align: center;
+    justify-content: center;
+}
+.box1{
+    height: 0;
+    position: relative;
+    top: 1rem;
+    margin-left: 2rem;
+}
+.BOULT-IMG{
+    background-image: url("bloult.webp");
+    height: 20.15625rem;
+    width: 13.125rem;
+    position: relative;
+    bottom: 3.5rem;
+    background-size: cover;
+}
+/**TEMPLETS**/
+
+
+.templets{
+    height: 14.71125rem;
+    position: relative;
+    top: 7rem;
+    background-color: white;
+    margin-left: 3.4rem;
+    margin-right: 3.4rem;
+    display: flex;
+    justify-content: space-evenly;
+    background-size: cover;
+}
+.temp1{
+    background-image: url("temp1.webp");
+    height: 14.71125rem;
+    width: 27.41625rem;
+    background-size: cover;
+}
+.temp2{
+    background-image: url("temp2.webp");
+    height: 14.71125rem;
+    width: 27.41625rem;
+    background-size: cover;
+}
+.temp3{
+    background-image: url("temp3.webp");
+    height: 14.71125rem;
+    width: 27.41625rem;
+    background-size: cover;
 }
