@@ -182,8 +182,7 @@
 
 /** SCREEN**/
 
-.screen-img{
-    background-image: url("ad-screen.webp");
+.carousel-slide{  
     height: 13.891875rem;
     margin-left: 3.4rem;
     margin-right: 3.4rem;
