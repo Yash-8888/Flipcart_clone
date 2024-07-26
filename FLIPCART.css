@@ -107,7 +107,7 @@
 
 .body1{
     background-color: #eeeeee;
-    height: 10000px;
+    height: 69.625rem;
     width: 103.39rem;
     margin: 0px;
 }
@@ -298,3 +298,95 @@
     width: 27.41625rem;
     background-size: cover;
 }
+
+/**2nd body or information**/
+
+.information{
+    background-color: #f5f5f5;
+}
+.shopping-des{
+    margin-left: 3.4rem;
+    margin-right: 3.4rem;
+    padding-top: 2rem;
+}
+.shopping-des h1{
+    font-size: 1rem;
+    font-weight: bolder;
+    color: #878787;
+}
+.shopping-des p{
+    font-size: 0.8rem;
+    color: #878787;
+}
+
+
+/**Foorter**/
+
+.foot-panel2{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.80rem;
+    background-color: #252525;
+    color: white;
+    padding-top: 4rem;
+    font-weight: bolder;
+    padding-bottom: 5rem;
+    border-right: 1px solid rgb(210, 210, 245);
+    border-bottom: 2px solid rgb(217, 217, 255);
+ }
+ ul a{
+    display: block;
+    padding-top: 1rem;
+    font-size: 14px;
+    color: #dddddd;
+    font-weight: lighter;
+    text-decoration: none;
+ }
+ .foot-panel2 :hover{
+    text-decoration: underline;
+ }
+
+ .foot-panel3 h3{
+    font-size: 1rem;
+ }
+ .foot-panel2 h3{
+    font-size: 1rem;
+ }
+ .foot-panel2 ul{
+    font-weight: bolder;
+ }
+ .copyright{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #252525;
+    color: white;
+    font-size: 0.8rem;
+    margin: 0;
+    height: 5rem;
+ }
+ .seller-img1{
+    background-image: url("sell-image.svg");
+    height: 1rem ;
+    width: 1rem;
+ }
+ .advertise{
+    background-image: url("advertise-image.svg");
+    height: 1rem ;
+    width: 1rem;
+ }
+ .gift-card{
+    background-image: url("gift-cards-image.svg");
+    height: 1rem ;
+    width: 1rem;
+ }
+ .foot-imgs{
+    display: flex;
+ }
+ .payment-src-img{
+    background-image: url("payment-method.svg");
+    height: 1rem;
+    width: 23.5rem;
+    align-items: center;
+ }
+ 
